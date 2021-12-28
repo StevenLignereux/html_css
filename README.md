@@ -1,5 +1,5 @@
 # html_css
-Retrouver ici la liste de me sprojets en html, css ou bien avec boostrap et autres frameworks...
+Retrouver ici la liste de mes projets en html, css ou bien avec boostrap et autres frameworks...
 
 ### Clone de netflix
 Un clone de l'interface de netflix
