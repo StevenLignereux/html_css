@@ -17,3 +17,10 @@ Un site moderne s'adaptant aux téléphones
 [code source du projet](https://github.com/StevenLignereux/site_art)
 
 [demo live](https://stevenlignereux.github.io/site_art/)
+
+### site bootstrap
+Un site de blog avec le framework bootstrap
+
+[code source du projet](https://github.com/StevenLignereux/blog_bootstrap)
+
+[demo live](https://stevenlignereux.github.io/blog_bootstrap/)
