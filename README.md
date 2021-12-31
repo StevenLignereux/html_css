@@ -11,21 +11,21 @@ Un clone de l'interface de netflix
 
 [demo live](https://stevenlignereux.github.io/netflix_clone/)
 
-### site moderne
+### Site moderne
 Un site moderne s'adaptant aux téléphones
 
 [code source du projet](https://github.com/StevenLignereux/site_art)
 
 [demo live](https://stevenlignereux.github.io/site_art/)
 
-### site bootstrap
+### Site bootstrap
 Un site de blog avec le framework bootstrap
 
 [code source du projet](https://github.com/StevenLignereux/blog_bootstrap)
 
 [demo live](https://stevenlignereux.github.io/blog_bootstrap/)
 
-### site permaculture
+### Site permaculture
 Un site sur la permaculture un peu plus avancé avec le framework bootstrap
 
 [code source du projet](https://github.com/StevenLignereux/permaculture)
